@@ -4,12 +4,17 @@
 Analyser le marché freelance malgache à partir des offres publiées.
 
 ## Source des données
-- **MadaAllStar.org** (avril 2026)
+- MadaAllStar.org (avril 2026)
 - 41 offres d'emploi freelance collectées
 
 ## Résultats clés
 
+### Graphique des offres par domaine
+
+![Offres freelance par domaine à Madagascar](resultat_final.png)
+
 ### Domaines qui recrutent le plus
+
 | Domaine | Offres | Pourcentage |
 |---------|--------|-------------|
 | Assistanat / Admin | 10 | 24% |
@@ -24,10 +29,6 @@ Analyser le marché freelance malgache à partir des offres publiées.
 - **Community**: 4 offres
 - **WordPress**: 3 offres
 - **Graphiste**: 3 offres
-
-### Tarifs
-Les 41 offres ne précisent pas les tarifs.
-→ Sur MadaAllStar, les recruteurs ne publient pas les prix.
 
 ## Fichiers
 - `offres_freelance_mada.csv` - Données brutes
